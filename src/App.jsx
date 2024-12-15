@@ -1,10 +1,6 @@
 import {useEffect, useState} from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import sidebarmob from './assets/assets/images/bg-sidebar-mobile.svg'
-import { FaToggleOn } from "react-icons/fa";
-import { FaToggleOff } from "react-icons/fa6";
 import arcade from './assets/assets/images/icon-arcade.svg'
 import advanced from './assets/assets/images/icon-advanced.svg'
 import pro from './assets/assets/images/icon-pro.svg'
